@@ -77,5 +77,5 @@ y = m * z
 print(y)
 
 #getting the remainder
-5 / 2
-print(5/2)
+5 % 2
+print(5%2)
