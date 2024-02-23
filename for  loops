@@ -1,0 +1,4 @@
+my_list = ["lions","cats","cows"]
+
+for i in my_list :
+    print(i)
