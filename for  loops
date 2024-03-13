@@ -2,3 +2,62 @@ my_list = ["lions","cats","cows"]
 
 for i in my_list :
     print(i)
+
+#change of old item with new(changing grapes to berries )
+
+my_fruit_list = ["oranges","melons","dates","apples","grapes"]
+
+my_fruit_list [4] = "berries"
+
+print(my_fruit_list)
+
+
+#checking item that already exist in the list
+
+my_fruit_list = ["oranges","melons","dates","apples","grapes"]
+
+if "dates" in my_fruit_list:
+    print ("yes dates are available in the fruit list")
+else :
+    print("are not available in the fruit list")
+
+
+ #selecting item from the list
+    
+my_fruit_list = ["oranges","melons","dates","apples","grapes"]
+ 
+print(my_fruit_list [1])
+
+#removing items from the list
+
+my_fruit_list = ["oranges","melons","dates","apples","grapes"]
+
+my_fruit_list . remove("melons")
+print(my_fruit_list)
+
+#adding item using indert method
+
+my_fruit_list = ["oranges","melons","dates","apples","grapes"]
+    
+my_fruit_list . insert (5,"carrots")
+print(my_fruit_list)
+
+#printing every item on the list
+
+my_fruit_list = ["oranges","melons","dates","apples","grapes"]
+
+for i in my_fruit_list :
+    print(i)
+
+#adding a number in a list
+my_numbers= [1,2,3,4,5]
+for i in my_numbers :
+    print(i)
+
+#example 2
+my_numbers= [1,2,3,4,5]
+for x in my_numbers :
+    y=x+3
+    print(y)
+
+    
