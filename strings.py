@@ -1,4 +1,4 @@
-name =input( "enter your namre")
+name =input( "enter your name")
 message = f" hello , {name}"
 print(message)
  
@@ -22,4 +22,7 @@ print(f" {part1} {part2} ")
 
 print( "you will die if you " + part1)
 
-print(f" you will die if you ") , {part1} "
+print(f" you will die if you , {part1} ")
+
+
+
