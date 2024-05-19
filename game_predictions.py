@@ -41,7 +41,7 @@ elif arsenal_points > man_cit_points:
     print("Arsenal will be crowned champions.")
 
 else:
-    print("Manchest City will be crowned champions") #assuming goaldifference favors city
+    print("Manchester City will be crowned champions") #assuming goaldifference favors city
 
 
 
