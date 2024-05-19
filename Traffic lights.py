@@ -1,6 +1,6 @@
 #Traffic lights
 
-traffic_light = input("Enter traffic color :")
+traffic_light = input("Enter traffic color : ")
 
 if (traffic_light == "red"):
     print("stop!")
